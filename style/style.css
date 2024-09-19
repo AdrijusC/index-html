@@ -1,0 +1,59 @@
+/*
+Stilius
+*/
+section {
+    background: #7c7890 url('../img/img1.jpg.jpg');
+    background-size: cover;
+}
+section article {
+    color: #3115c0;
+    font-size: 1.2em;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgba(221, 255, 51, 0.5);
+}
+section article{
+    line-height: 2;
+}
+#one {
+    font-family: "Sofadi one", sans-serif;
+}
+#two{
+    font-family: "Gowun Batang", sans-serif
+}
+#three {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#four {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.super{
+    color: #aaddff;
+    text-decoration: underline;
+}
+section :nth-child(4){
+    color: #bbffee
+}
+.links li {
+    list-style: none;
+}
+.links li {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #156201;
+}
+.links li a:hover {
+    color: #ddaa44;
+    font-size: 2em;
+}
+.links ul :nth-child(2n+2){
+    background-color: #aaff88;
+}
+
+#midle {
+    text-align: right;
+}
+

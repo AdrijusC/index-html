@@ -1,0 +1,66 @@
+.head{
+    background-color: rgb(11, 223, 238);
+}
+#headd{
+    color: white;
+    padding: 10px;
+    padding-top: 20px;
+    text-indent: 1;
+}
+.first{
+    background-color: green;
+    text-align: left;
+    margin-block: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+    border: 5px solid #ddffaa;
+    height: 150px;
+}
+
+.second{
+    text-align: center;
+    background-color: red;
+    margin-block: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    text-decoration: underline;
+    color: white;
+    border-radius: 10px;
+    height: 100px;
+    padding-top: 10px;
+}
+#wantt{
+    text-align: center;
+    text-decoration: none;
+}
+#wanttt{
+    text-align: center;
+}
+#midle{
+    text-align: right;
+    padding-right: 10px;
+}
+.cupcak{
+    padding: 10px
+}
+#bottom {
+    background-color: rgb(11, 11, 142);
+    text-decoration: white;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    position: fixed;
+}
+.pbot {
+    color: white;
+}
+.pbottom{
+    color: white;
+}
+.hbot{
+    color: white;
+}
+section .head h1,h2 {
+    color: white;
+}
