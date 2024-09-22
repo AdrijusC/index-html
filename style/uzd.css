@@ -35,7 +35,7 @@ article:nth-child(even) h2::before{
     content: "content before";
     color: blue;
 }
-a[href^="#"] {
+a[href^="http"] {
     color: green;
     font-size: medium;
     font-style: italic;
