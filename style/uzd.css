@@ -1,6 +1,42 @@
 header{
-    background-color: blue !important;
+    background-color: gray;
 }
 body{
-    background-color: black !important;
+    background-color: rgb(128, 0, 0);
+}
+article:nth-child(2n) {
+    background-color: green;
+}
+article:nth-child(odd) em {
+    color: #ffaacc;
+}
+article p:nth-child(odd) {
+    color: darkgoldenrod;
+}
+aside:nth-last-child(2){
+    background-color: aqua;
+}
+aside ul li:nth-child(odd){
+    color: aquamarine;
+}
+aside ul li:nth-child(1) :hover{
+    color: #ffeeff;
+}
+aside ul li:last-child :hover{
+    color: tomato;
+}
+footer ul ul li:nth-child(2n){
+    background-color: blueviolet;
+}
+nav a:hover{
+    color: yellow;
+}
+article:nth-child(even) h2::before{
+    content: "content before";
+    color: blue;
+}
+a[href^="#"] {
+    color: green;
+    font-size: medium;
+    font-style: italic;
 }
