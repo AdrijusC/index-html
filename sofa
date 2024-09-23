@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>first</title>
+        <link rel="stylesheet" href="style/normalize.css">
+        <link rel="stylesheet" href="style/pirmas.css">
+        <link rel="img" href="img/sofa.jpg:">
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h6>2006</h6>
+                <a src="img/sofa.jpg" alt="sofa"></a>
+                <h6>2011</h6>
+                <h1>WE WERE SOFA</h1>
+
+            </header>
+        </div>
+        <main>
+            <div class="description">
+                <div id="middle">
+                <p> A software and interaction design company that built great products.</p>
+                </div>
+                <section class="blocks">
+                    <ul>
+                        <li>
+                            <h3>People</h3>
+                            <p>Read about the people who build Sofa</p>
+                        </li>
+                        <li>
+                            <h3>Products</h3>
+                            <p>Read about the people who build Sofa</p>
+                        </li>
+                        <li>
+                            <h3>Products</h3>
+                            <p>Read about the people who build Sofa</p>
+                        </li>
+                        <li>
+                            <h3>Products</h3>
+                            <p>Read about the people who build Sofa</p>
+                        </li>
+                    </ul>
+                </section>
+            </div>
+        </main>
+        <div class="Copyright">
+        <footer>
+            <p>Copyright opyright opyright opyright opyright </p>
+        </footer>
+        </div>
+    </body>
+</html>
