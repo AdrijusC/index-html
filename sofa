@@ -5,49 +5,47 @@
         <title>first</title>
         <link rel="stylesheet" href="style/normalize.css">
         <link rel="stylesheet" href="style/pirmas.css">
-        <link rel="img" href="img/sofa.jpg:">
+        <link rel="img" href="img/sofa.jpg">
+        <title>Sofa</title>
     </head>
     <body>
         <div class="container">
             <header>
-                <h6>2006</h6>
-                <a src="img/sofa.jpg" alt="sofa"></a>
-                <h6>2011</h6>
+                <span>2006</span>
+                <img src="img/sofa.jpg" alt="sofa"></a>
+                <span>2011</span>
                 <h1>WE WERE SOFA</h1>
-
             </header>
-        </div>
         <main>
             <div class="description">
-                <div id="middle">
-                <p> A software and interaction design company that built great products.</p>
+                <div>
+                <p class="middle"> A software and interaction design company that built great products.</p>
                 </div>
                 <section class="blocks">
-                    <ul>
-                        <li>
-                            <h3>People</h3>
-                            <p>Read about the people who build Sofa</p>
-                        </li>
-                        <li>
-                            <h3>Products</h3>
-                            <p>Read about the people who build Sofa</p>
-                        </li>
-                        <li>
-                            <h3>Products</h3>
-                            <p>Read about the people who build Sofa</p>
-                        </li>
-                        <li>
-                            <h3>Products</h3>
-                            <p>Read about the people who build Sofa</p>
-                        </li>
-                    </ul>
+                    <article>
+                        <h3>People</h3>
+                        <p>Read about the people who build Sofa</p>
+                    </article>
+                    <article>
+                        <h3>Products</h3>
+                        <p>Sofa's gone but our products live on.</p>
+                    </article>
+                    <article>
+                        <h3>Facebook</h3>
+                        <p>Read about the people who build Sofa</p>
+                    </article>
+                    <article>
+                        <h3>Archive</h3>
+                        <p>Read about the people who build Sofa</p>
+                    </article>
                 </section>
             </div>
         </main>
-        <div class="Copyright">
+        <div class="copyright">
         <footer>
             <p>Copyright opyright opyright opyright opyright </p>
         </footer>
+        </div>
         </div>
     </body>
 </html>
