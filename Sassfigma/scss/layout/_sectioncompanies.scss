@@ -10,6 +10,9 @@
             @include flex-center;
             margin: 0 auto;
             width: 50%;
+            @media (max-width: 768px) {
+                  display: block;
+                }
             img{
                 margin: 20px 50px;
             }

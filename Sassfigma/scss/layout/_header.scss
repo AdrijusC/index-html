@@ -4,6 +4,10 @@ header {
         justify-content: space-between;
         margin-top: 45px;
         padding: 15px;
+        @media (max-width: 768px) {
+            display: block;
+            text-align: center;
+          }
         .header_logo{
             font:{
                 weight: 500;
