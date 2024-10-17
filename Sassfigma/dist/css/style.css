@@ -86,10 +86,10 @@ nav ul li a {
   min-width: 500px;
 }
 .hero .container .hero_pic .hero_position {
-  background-image: url("/img/hero.jfif");
   position: relative;
   width: 600px;
   height: 600px;
+  background-image: url("../../img/hero.jfif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
